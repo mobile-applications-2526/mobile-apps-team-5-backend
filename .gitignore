@@ -1,0 +1,33 @@
+# Node dependencies
+node_modules/
+
+# Environment variables (🔒 contains your Supabase keys!)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Build output (if you ever build TypeScript or bundle)
+dist/
+build/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Optional: macOS and system files
+*.swp
+*.swo
+*.tmp
+
+# Optional: test coverage or cache
+coverage/
+.cache/

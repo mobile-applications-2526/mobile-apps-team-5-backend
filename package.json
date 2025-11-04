@@ -1,0 +1,27 @@
+{
+  "name": "mobile-apps-team-5-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobile-applications-2526/mobile-apps-team-5-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mobile-applications-2526/mobile-apps-team-5-backend/issues"
+  },
+  "homepage": "https://github.com/mobile-applications-2526/mobile-apps-team-5-backend#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.78.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
